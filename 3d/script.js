@@ -2,4 +2,4 @@ let animals = ["kucing", "anjing", "kelinci", "gajah", "beruang", "monyet", "jer
 
 animals.forEach(function (item, urutan) {
     console.log("Hewan urutan nomor " + urutan + " adalah " + item);
-});
+}); 
