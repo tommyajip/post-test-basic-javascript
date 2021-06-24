@@ -7,4 +7,4 @@ while (lagi === true) {
     alert(`Luas lingkaran dengan jari-jari = ${r} adalah ${hasil}`);
     lagi = confirm("Apakah Anda ingin menghitung luas lingkaran lagi?");
 }
-alert("Terima kasih!");
+alert("Terima kasih!");  
